@@ -14,4 +14,5 @@ Passos a serem desenvolvidos no Tutorial
  8 - Usando dispositivos IR 433mhz
  9 - Atualizando firmware dos dispositivos da Itead
 10 - Usando os softwares Tasmota, ESPEasy e Espurna
-11 -
+11 - Ideias de Automação
+12 - Montando uma interface de controle para uso em Tablets
