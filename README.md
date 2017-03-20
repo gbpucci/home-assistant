@@ -27,3 +27,5 @@ Passos a serem desenvolvidos no Tutorial
 11 - Ideias de Automação
 
 12 - Montando uma interface de controle para uso em Tablets
+
+- Ligar e desligar a rede guest do roteador, controle da tv e do som
