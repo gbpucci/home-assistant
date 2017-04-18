@@ -2,24 +2,25 @@
 Instalação e configuração do Home Assistant
 
 
- - Setup Atual
- Raspberry Pi 3 Model B com cartão de 64Gb com sensor DHT22
+ Setup Atual
  
- Home Assistant
+ - Raspberry Pi 3 Model B com cartão de 64Gb com sensor DHT22
  
- IR Blaster Broadlink
+ - Home Assistant
  
- Sonoff Basic com Firmware Tasmota para automação da iluminação
+ - IR Blaster Broadlink
+ 
+ - Sonoff Basic com Firmware Tasmota para automação da iluminação
 
- Sonoff SC para monitoramento da sala de tv
+ - Sonoff SC para monitoramento da sala de tv
  
- Gateway Xiaomi
+ - Gateway Xiaomi
  
- Sensores de Porta/Janela Xiaomi
+ - Sensores de Porta/Janela Xiaomi
  
- Sensores de Temperatura/Humidade Xiaomi Mi
+ - Sensores de Temperatura/Humidade Xiaomi Mi
  
- Switch Xiaomi
+ - Switch Xiaomi
  
  
 
