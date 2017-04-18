@@ -8,13 +8,13 @@ Instalação e configuração do Home Assistant
  
  - Home Assistant
  
- - IR Blaster Broadlink
+ - IR Blaster Broadlink RM 3 Mini
  
  - Sonoff Basic com Firmware Tasmota para automação da iluminação
 
  - Sonoff SC para monitoramento da sala de tv
  
- - Gateway Xiaomi
+ - Gateway Xiaomi Mi
  
  - Sensores de Porta/Janela Xiaomi
  
