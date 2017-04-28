@@ -7,6 +7,8 @@ Instalação e configuração do Home Assistant
  - Raspberry Pi 3 Model B com cartão de 64Gb com sensor DHT22
  
  - Home Assistant
+
+ - Amazon Echo Dot
  
  - IR Blaster Broadlink RM 3 Mini
  
